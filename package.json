@@ -16,7 +16,7 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@fish/cli": "^1.0.19",
+    "@fish/cli": "^1.0.0",
     "auto-vers": "^1.0.3"
   }
 }
