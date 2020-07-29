@@ -1,0 +1,22 @@
+{
+  "name": "face-demo",
+  "version": "1.0.0",
+  "description": "纯js人脸识别",
+  "main": "index.js",
+  "scripts": {
+    "build:prod": "fish build prod vue",
+    "build:test": "fish build test vue",
+    "start": "fish start vue",
+    "upload": "fish upload",
+    "update": "auto-vers -t"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@fish/cli": "^1.0.19",
+    "auto-vers": "^1.0.3"
+  }
+}
